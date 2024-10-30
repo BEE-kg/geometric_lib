@@ -54,8 +54,11 @@ perimeter(4, 6)
 
 ## Ссылки на коммиты
 [b8a1698ee7e9f01f9fe32aea6a2c47eb1aa611b6](https://github.com/BEE-kg/geometric_lib/commit/b8a1698ee7e9f01f9fe32aea6a2c47eb1aa611b6) Update triangle.py
+
 [4f3b41107e8e17595d71edae8f3f07f6c94df411](https://github.com/smartiqaorg/geometric_lib/commit/4f3b41107e8e17595d71edae8f3f07f6c94df411) Update square.cpp
+
 [54f25824c460f8b616e8f9dafc3003dad3d9fbf2](https://github.com/smartiqaorg/geometric_lib/commit/54f25824c460f8b616e8f9dafc3003dad3d9fbf2) Updaye rectangle.py
+
 [7c0c7b89305842aca36e39b15af14ac2c5bad80d](https://github.com/smartiqaorg/geometric_lib/commit/7c0c7b89305842aca36e39b15af14ac2c5bad80d) Update circle.py
     
 ## Math formulas
